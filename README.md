@@ -2,4 +2,4 @@
 
 Juego Black Jack plus Vite:
 
-Local host 5312
+Local host 5312 ::
